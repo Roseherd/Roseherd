@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roseherd
+- 👋 Hi, I’m Roseherd
 - 👀 I’m interested in how data science and machine learning can be used to solve problems in healthcare
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on data science and machine learning projects
